@@ -5,7 +5,9 @@ Clase 20 05 2023  https://www.db-fiddle.com/f/iRgY2CSpGeKJktBiU7XCCz/1
 Clase 03 07 2023 
       Inner join  https://www.db-fiddle.com/f/iRgY2CSpGeKJktBiU7XCCz/3
       Subconsultas https://www.db-fiddle.com/f/nUDgmW8UiDf7qDkhUmxdUS/1
-      
+      triggers  https://www.db-fiddle.com/f/iRgY2CSpGeKJktBiU7XCCz/4
+ Final 
+      https://www.db-fiddle.com/f/p5uREzuWDSaJWgNUewGk71/0
       
 Generar datos de forma aleatioria https://www.mockaroo.com/
 
